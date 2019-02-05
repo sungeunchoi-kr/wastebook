@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# binary resources
+*.ttf
+*.ttc
+*.otf
+*.swp
